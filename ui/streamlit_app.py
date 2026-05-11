@@ -113,7 +113,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.title("Multi-Multi-Agent Accademic Assistant")
+st.title("Multi-Agent Accademic Assistant")
 st.caption("Ask questions and get AI or TA-escalated responses.")
 
 api_url = resolve_api_url()
